@@ -73,7 +73,7 @@ public class Apm {
     }
 
     static {
-        System.loadLibrary("webrtc_apms"); // to load the libwebrtc_apms.so library.
+        System.loadLibrary("webrtc_apms"); // to load the libwebrtc_apms.so.bak library.
     }
 
 

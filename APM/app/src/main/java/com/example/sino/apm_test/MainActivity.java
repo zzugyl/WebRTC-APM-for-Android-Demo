@@ -71,7 +71,7 @@ public class MainActivity extends AppCompatActivity {
     int _sendCount = 0;
 
     int _aecPCLevel = 2;
-    int _aecMobileLevel = 3;
+    int _aecMobileLevel = 2;
     int _nsLevel = 2;
     int _agcLevel = 0;
 
